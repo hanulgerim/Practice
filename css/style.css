@@ -1,0 +1,19 @@
+body{
+  background-color: #EAF6F9;
+}
+
+hr{
+border-style: none;
+border-top: dotted;
+border-width: 5px;
+width: 30%;
+border-color: red;
+}
+
+h1{
+  color: tan;
+}
+
+h3{
+  color: pink;
+}
